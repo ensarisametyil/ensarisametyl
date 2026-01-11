@@ -1,68 +1,52 @@
-<!-- HEADER -->
+<h1 align="center">Ensar Yıldız</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=160&section=header&text=Ensar%20Yıldız&fontSize=42&fontColor=ffffff&fontAlignY=35" />
+  Interested in software development · Learning by building
 </p>
 
-<!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
   font=Fira+Code&
-  size=16&
-  pause=1200&
-  color=9CA3AF&
+  size=14&
+  pause=1600&
+  color=6B7280&
   center=true&
   vCenter=true&
-  width=520&
-  lines=Software+Developer;Modern+Web+%26+TypeScript;Clean+Architecture+Mindset;Long-term+Engineering+Focus" />
+  width=420&
+  lines=Learning+step+by+step;Building+small+projects+carefully" />
 </p>
 
 ---
 
-## Profil
-Yazılımı yüzeysel öğrenmek yerine, **temelini anlayarak** ilerlemeyi hedefliyorum.  
-Hızlı sonuçlardan çok, **doğru sistemler kurmaya** odaklanırım.
+## About
+I’m learning software development by working on small projects and improving them over time.
 
-Bu profil;  
-bitmiş bir başarı hikâyesi değil,  
-**bilinçli şekilde inşa edilen bir yolculuğun kaydıdır**.
+Instead of rushing,  
+I focus on understanding the basics well and writing clean, readable code.
 
----
-
-## Odaklandığım Alanlar
-- Modern frontend mimarileri
-- TypeScript ile güvenli ve sürdürülebilir kod
-- UI/UX mantığı olan arayüzler
-- Gerçek problemler üzerinden öğrenme ve çözüm üretme
+This profile is where I share my progress and projects as I continue to learn.
 
 ---
 
-## Teknoloji Seti
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,next,tailwind,node,git,github" />
+## Interests
+- Web development
+- JavaScript and TypeScript fundamentals
+- React and modern frontend concepts
+- Simple and clean user interfaces
+
+---
+
+## Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github" />
 </p>
 
 ---
 
-## Çalışma Prensibi
-- Küçük ama sağlam projeler
-- Gereksiz karmaşadan kaçınma
-- Öğrenilen her konuyu gerçek bir yapıya dönüştürme
+## GitHub
+Projects here reflect my learning process and experiments.  
+I plan to add more structured and advanced projects over time.
 
-> Bu profil bir vitrin değildir.  
-> **Disiplinli bir mühendislik yaklaşımının yansımasıdır.**
-
----
-
-## GitHub Aktivitesi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ensarisametyl&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ensarisametyl&theme=tokyonight&hide_border=true" />
-</p>
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=40&section=footer" />
 </p>
