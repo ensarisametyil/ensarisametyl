@@ -2,11 +2,11 @@
 <h3 align="center">Frontend Developer | Web Programming | UI Designer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eyildiz&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=eyildiz&label=Profile%20Visitors&color=blueviolet&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <b>Modern Tasarım • Temiz Kod • Kullanıcı Odaklılık</b>
+  <b>Modern Tasarım • Temiz Kod • Kullanıcı Deneyimi</b>
 </p>
 
 ---
@@ -14,22 +14,22 @@
 ## ✨ Hakkımda
 
 Merhaba, ben Ensari Samet.  
-12. sınıf Bilişim Teknolojileri öğrencisiyim ve web programlama ile ön yüz (frontend) geliştirme alanında kendimi sürekli geliştiren bir geliştirici adayıyım.
+12. sınıf Bilişim Teknolojileri öğrencisiyim ve web programlama ile frontend geliştirme alanında kendimi sürekli geliştiren bir geliştirici adayıyım.
 
-Kullanıcı odaklı, modern ve estetik web arayüzleri tasarlamayı seviyorum.  
+Modern, estetik ve kullanıcı dostu web arayüzleri tasarlamayı seviyorum.  
 Frontend geliştirme, arayüz tasarımı ve web tabanlı yazılım projeleri üzerine çalışıyorum.  
 Aynı zamanda Python ile masaüstü ve yardımcı uygulamalar geliştiriyorum.
 
-Amacım; performanslı, sade ve profesyonel web projeleri üretmek.
+Hedefim; performanslı, sade ve profesyonel web projeleri üretmek.
 
 ---
 
 ## 🧠 Odaklandığım Alanlar
 
 - 🌐 Web Uygulama Geliştirme  
-- 🎨 Frontend Tasarım & UI  
-- 🖥️ Kullanıcı Arayüzü Geliştirme  
-- 🗄️ Veritabanı Tabanlı Uygulamalar  
+- 🎨 Frontend & UI Tasarım  
+- 🖥️ Kullanıcı Deneyimi (UX)  
+- 🗄️ Veritabanı Tabanlı Sistemler  
 - 🧩 Yazılım Mimarisi  
 
 ---
@@ -78,11 +78,23 @@ Web Programlama & Yazılım Geliştirme Odaklı Eğitim
 ## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eyildiz&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eyildiz&show_icons=true&theme=tokyonight&border_radius=15" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyildiz&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyildiz&theme=tokyonight&border_radius=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eyildiz&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Kupalarım
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=eyildiz&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
