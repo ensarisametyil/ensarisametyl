@@ -70,34 +70,13 @@ Web Programlama & Yazılım Geliştirme Odaklı Eğitim
 ---
 
 ## 🌍 Yabancı Dil
-
-🇬🇧 İngilizce — Orta Seviye
-
----
-
-## 📊 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eyildiz&show_icons=true&theme=tokyonight&border_radius=15" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyildiz&theme=tokyonight&border_radius=15" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eyildiz&theme=tokyonight" />
-</p>
+ İngilizce — Orta Seviye
 
 ---
 
-## 🏆 GitHub Kupalarım
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eyildiz&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
----
+
 
 ## 📫 İletişim
 
