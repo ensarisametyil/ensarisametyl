@@ -83,7 +83,7 @@ Web Programlama & Yazılım Geliştirme Odaklı Eğitim
 📧 Mail: sametensar440@gmail.com  
 📸 Instagram: https://instagram.com/sametensar1907  
 🐦 X (Twitter): https://x.com/sametensar1907  
-💻 GitHub: https://github.com/eyildiz  
+💻 GitHub: https://github.com/ensarisametyil
 
 ---
 
