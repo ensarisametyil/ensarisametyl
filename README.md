@@ -1,117 +1,83 @@
-<!-- TOP BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E2EFF&height=220&section=header&text=Ensari%20Samet&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-</p>
+# Ensari Samet
 
-<h3 align="center">
-Frontend Developer • UI/UX Focused • Web Programming
-</h3>
+Frontend Developer focused on building modern, responsive and user-centered web applications.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ensarisametyil&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/ensarisametyil?style=for-the-badge&color=blue" />
-</p>
+Modern, responsive ve kullanıcı odaklı web uygulamaları geliştirmeye odaklanan bir Frontend geliştiricisiyim.
 
 ---
 
-## 👨‍💻 Hakkımda / About Me
+## 👨‍💻 About Me | Hakkımda
 
-🇹🇷  
-Bilişim Teknolojileri alanında eğitim alan ve frontend geliştirme üzerine yoğunlaşan bir geliştiriciyim.  
-Modern tasarım, temiz kod ve sürdürülebilir yazılım mimarisi benim için önceliktir.
+**EN**
 
-🇬🇧  
-An Information Technologies student focused on frontend development,  
-modern UI design and scalable web architecture.
+I am a 12th grade Information Technologies student with a strong interest in web development.  
+I mainly work on frontend technologies and continuously improve myself by building practical projects.
 
----
+I care about writing clean, maintainable and scalable code while delivering a good user experience.
 
-## 🧠 Core Focus
+**TR**
 
-- ⚡ Frontend Development  
-- 🎨 UI / UX Design  
-- 🗄️ Database-Based Systems  
-- 🏗️ Clean Architecture  
-- 🔐 Cybersecurity Fundamentals  
+12. sınıf Bilişim Teknolojileri öğrencisiyim ve web geliştirme alanına ilgi duyuyorum.  
+Ağırlıklı olarak frontend teknolojileri üzerinde çalışıyor ve kendimi gerçek projeler geliştirerek ilerletiyorum.
+
+Temiz, sürdürülebilir ve ölçeklenebilir kod yazmaya ve iyi bir kullanıcı deneyimi sunmaya önem veriyorum.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technologies | Teknolojiler
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,python,mysql,vscode,github" />
-</p>
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript
+- React
 
----
+**Programming**
+- Python
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ensarisametyil&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ensarisametyil&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ensarisametyil&theme=tokyo-night&hide_border=true"/>
-</p>
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Figma
 
 ---
 
-## 🏆 Achievements
+## 📌 Projects | Projeler
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ensarisametyil&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+Some of my projects:
 
----
+- **RentGo Car Rental Website** – Modern frontend car rental interface  
+- (Yeni projeler ekleyebilirsin)
 
-## 🐍 Contribution Snake
+You can check all repositories below.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ensarisametyil/ensarisametyil/output/github-contribution-grid-snake-dark.svg" />
-</p>
+Tüm projelerimi aşağıdaki repository bölümünde inceleyebilirsiniz.
 
 ---
 
-## 🚀 Currently Building
+## 📊 GitHub Statistics
 
-- 🚗 RentGo – Car Rental Website (Frontend)
-- 🌐 Modern UI Projects
-- 🧩 Database-Based Mini Systems
-- 🐍 Python Utility Applications
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ensarisametil&show_icons=true)
 
----
-
-## 🎯 Career Vision
-
-🇹🇷  
-Modern, performanslı ve ölçeklenebilir web uygulamaları geliştiren  
-profesyonel bir yazılım geliştirici olmak.
-
-🇬🇧  
-To become a professional developer  
-who builds scalable and high-performance applications.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ensarisametil&layout=compact)
 
 ---
 
-## 📫 Contact
+## 🎯 Current Focus | Güncel Odak
 
-<p align="center">
-  <a href="mailto:sametensar440@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://x.com/sametensar1907">
-    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter"/>
-  </a>
-</p>
+- Improving React skills  
+- Building responsive and accessible interfaces  
+- Writing cleaner and more maintainable code  
+- Learning advanced frontend patterns  
 
 ---
 
-<p align="center">
-  🚀 Design attracts attention. Code defines quality.
-</p>
+## 📫 Contact | İletişim
 
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E2EFF&height=120&section=footer"/>
-</p>
+- LinkedIn: (ekleyebilirsin)
+- Email: (ekleyebilirsin)
+
+---
+
+⭐ Ensari Samet
