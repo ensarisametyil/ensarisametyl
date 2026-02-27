@@ -1,111 +1,85 @@
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Ensari+Samet+Yıldız;Frontend+Developer;Cyber+Architecture+Mode+Active" />
-</h1>
+<h1 align="center">Ensari Samet Yıldız</h1>
+<h3 align="center">Frontend Geliştirici • Lise Öğrencisi • Kendini Sürekli Geliştiren Yazılımcı</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=SYSTEM%20VISITS&color=00ffff&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=KULLANICIADIN&label=Profil%20Görüntülenme&color=0d1117&style=flat" />
 </p>
 
 ---
 
-## 🖥 SYSTEM TERMINAL
+## 👨‍💻 Hakkımda
 
-```bash
-$ whoami
-Ensari Samet Yıldız
-
-$ role
-Frontend Developer
-
-$ education
-High School Student
-
-$ focus
-Web Design | Clean UI | Performance
-
-$ status
-Leveling Up...
-```
+- 🎓 Lise öğrencisiyim.
+- 💻 Web tasarım ve frontend geliştirme alanında çalışıyorum.
+- 📚 Kendi kendime öğreniyor ve projeler üreterek gelişiyorum.
+- 🎯 Hedefim güçlü bir yazılım altyapısı oluşturmak ve gerçek projelerde yer almak.
+- 🇹🇷 Türkiye'de yaşıyorum.
 
 ---
 
-## ⚡ TECH STACK
+## 🛠 Kullandığım Teknolojiler
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,cs&theme=dark" />
 </p>
 
----
+**Frontend**
+- HTML5  
+- CSS3  
+- JavaScript  
 
-## 🧠 CURRENT OBJECTIVE
-
-```diff
-+ Master Advanced JavaScript
-+ Build Real Client Projects
-+ Improve UI/UX Design Sense
-+ Learn Modern Frameworks
-
-! Constant Evolution Mode
-```
+**Programlama**
+- Python  
+- C#  
 
 ---
 
-## 🌐 CONNECT
+## 📈 Şu Anda Odaklandıklarım
+
+- JavaScript’i ileri seviyeye taşımak  
+- Temiz ve okunabilir kod yazmak  
+- UI/UX anlayışımı geliştirmek  
+- Gerçek dünya projeleri üretmek  
+
+---
+
+## 🌐 Sosyal Medya & İletişim
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourlink">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ffff"/>
+  <a href="https://linkedin.com/in/linkin">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/yourlink">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ffff"/>
+  <a href="https://instagram.com/linkin">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/yourlink">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=00ffff"/>
+  <a href="https://twitter.com/linkin">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="mailto:yourmail@email.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ffff"/>
+  <a href="mailto:mail@mail.com">
+    <img src="https://img.shields.io/badge/E--posta-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-# 📊 GITHUB ANALYTICS
+## 📊 GitHub İstatistiklerim
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=ffffff" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&bg_color=0d1117&hide_border=true&color=00ffff&line=00ffff&point=ffffff" />
-</p>
-
----
-
-## 🏆 ACHIEVEMENTS
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onestar&no-frame=true&no-bg=true&margin-w=10&title=Stars,Followers,Commits,Repositories" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICIADIN&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## 🎯 Hedef
 
-```bash
-> Coming Soon...
-> Real World Projects Loading...
-```
+Düzenli çalışan, disiplinli, sağlam temelli bir yazılımcı olmak.  
+Her gün bir adım daha ileri gitmek.
 
 ---
 
-## 🧬 FINAL SIGNAL
-
-```bash
-> run future.exe
-
-Young Developer
-Dark Theme
-No Limits
-```
+> “Sürekli gelişim, en güçlü yetenektir.”
