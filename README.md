@@ -9,7 +9,6 @@
 
 ## 👨‍💻 Hakkımda
 
-- 🎓 Lise öğrencisiyim.
 - 💻 Web tasarım ve frontend geliştirme alanında çalışıyorum.
 - 📚 Kendi kendime öğreniyor ve projeler üreterek gelişiyorum.
 - 🎯 Hedefim güçlü bir yazılım altyapısı oluşturmak ve gerçek projelerde yer almak.
